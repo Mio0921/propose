@@ -44,7 +44,7 @@
                                 </connections>
                             </button>
                             <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="0 人に興味がある＿人間オタク" translatesAutoresizingMaskIntoConstraints="NO" id="F4d-GP-Wzp">
-                                <rect key="frame" x="45" y="249" width="286" height="191"/>
+                                <rect key="frame" x="45" y="299" width="286" height="191"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                         </subviews>
